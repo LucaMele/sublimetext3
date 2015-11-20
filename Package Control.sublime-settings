@@ -1,0 +1,27 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"ColorPicker",
+		"DocBlockr",
+		"Grunt",
+		"Handlebars",
+		"JavaScript & NodeJS Snippets",
+		"JavaScript Completions",
+		"JavaScript Console",
+		"JavaScript Multiline",
+		"JavaScript Patterns",
+		"JavaScript Snippets",
+		"JavaScript Ultimate",
+		"JSHint",
+		"JSHint Gutter",
+		"jshintify",
+		"JSONLint",
+		"Package Control",
+		"Sass"
+	]
+}
