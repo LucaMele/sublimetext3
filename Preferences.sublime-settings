@@ -1,8 +1,10 @@
 {
-	"font_size": 9,
+	"font_size": 10,
 	"ignored_packages":
 	[
 		"JavaScript",
 		"Vintage"
-	]
+	],
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true
 }
